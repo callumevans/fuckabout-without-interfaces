@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Main", "Main\Main.csproj", "{021219C5-9872-43A3-BCEB-5F9DB04AF4D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{86D2CEF9-EBBD-444C-B90E-58FB1F59BC00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{021219C5-9872-43A3-BCEB-5F9DB04AF4D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{021219C5-9872-43A3-BCEB-5F9DB04AF4D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{021219C5-9872-43A3-BCEB-5F9DB04AF4D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{021219C5-9872-43A3-BCEB-5F9DB04AF4D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86D2CEF9-EBBD-444C-B90E-58FB1F59BC00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D2CEF9-EBBD-444C-B90E-58FB1F59BC00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D2CEF9-EBBD-444C-B90E-58FB1F59BC00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D2CEF9-EBBD-444C-B90E-58FB1F59BC00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
