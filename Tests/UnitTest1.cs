@@ -57,7 +57,7 @@ namespace Tests
         [Fact]
         public void TestBarFooMethod()
         {
-            // Uses concerete 'Bar' class but it calls the previously shimmed 'Foo' class.
+            // Uses concrete 'Bar' class but it calls the previously shimmed 'Foo' class.
             
             // Arrange
             int? result = null;
